@@ -1,0 +1,37 @@
+Mảng code
+Nhập môn lập trình
+Thực hành nhập môn lập trình
+Lập trình hướng đối tượng
+Thực hành lập trình hướng đối tượng
+Cấu trúc dữ liệu và giải thuật
+Công Nghệ Java
+Công nghệ .Net
+Thực hành cấu trúc dữ liệu và giải thuật
+Phát triển pần mềm ứng dụng thông minh
+
+Back-end
+Cơ sở dữ liệu
+Thực hành cơ sở dữ liệu
+Hệ quản trị cơ sở dữ liệu
+
+Chưa bít
+Lý thuyết thông tin
+Hệ điều hành
+Ảo hóa và điện toán đám mây
+
+AI
+Trí tuệ nhân tạo
+Khai thác dữ liệu
+Phân tích thiết kế hệ thống thông tin
+Thực hành phân tích thiết kế hệ thống thông tin
+
+Web
+Lập trình Web
+Công nghệ Web
+
+Mạng
+Mạng máy tính
+Thực hành mạng máy tính
+Xử lý và tính toán song song
+
+Lập trình di động

@@ -1,0 +1,15 @@
+1 sv nó đang ở hk x ( có điểm ) form tư vấn hk tiếp theo đăng kí kt bảng điểm hs (dựa trên các bảng tiên quyết,sh,mh trước)
+ds đã đăng kí học đưa ra chú thích ( lưu ý phải đạt môn học tiên quyết,sh,mh trước trc thì mới đc học môn kia sau);
+
+text box muốn học vượt (bao nhiêu học kì) kt xem rớt môn nào đưa vào học kì
+
+dựa vào bảng tiên quyếtm song hanh
+
+tổng số tín chỉ tự chọn của học kì
+label
+hoc ky 1 :10
+hk 3: 29
+av b2 36
+hk 5 41
+
+
